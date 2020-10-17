@@ -140,6 +140,7 @@ public class TimelineActivity extends AppCompatActivity {
             rvTweets.smoothScrollToPosition(0);
 
 
+
         }
         super.onActivityResult(requestCode, resultCode, data);
     }
